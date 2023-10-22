@@ -1,3 +1,3 @@
 ## Personal portfolio vanillaJs
  
- [personal-portfolio-vanillaJs](https://ashkar-noorul.github.io/personal-portfolio-vanillaJs/)
+ [Project Demo](https://ashkar-noorul.github.io/personal-portfolio-vanillaJs/)
