@@ -304,7 +304,7 @@ nav ul li a:hover::after {
 
 .contact-left p i {
   color: #ff004f;
-  margin-right: 15px;
+  margin-right: 5px;
   font-size: 25px;
 }
 
@@ -446,4 +446,10 @@ nav .fa-solid {
   .copyright {
     font-size: 14px;
   }
+}
+
+#msg {
+  color: #61b752;
+  margin-top: -40px;
+  display: block;
 }
